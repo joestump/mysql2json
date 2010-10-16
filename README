@@ -1,0 +1,5 @@
+# mysql2json
+
+Small tool to help converting a MySQL database to json
+
+usage: mysql2json address db user pwd
