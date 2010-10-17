@@ -1,5 +1,11 @@
-# mysql2json
+mysql2json
+==========
 
 Small tool to help converting a MySQL database to json
 
 usage: mysql2json address db user pwd
+
+Depedencies
+-----------
+- Python 2.6
+- mysql-python
